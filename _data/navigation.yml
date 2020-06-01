@@ -1,0 +1,6 @@
+- name: Cool Stuff
+  link: /
+- name: About
+  link: /about.html
+- name: Reading List
+  link: /blog.html

@@ -1,6 +1,6 @@
 title: Saloni Mehta
 author:
-  name: GitHub User
+  #name: 
   email: saloni.mehta073@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   My musings
@@ -54,5 +54,5 @@ minima:
 theme: minima
 
 plugins:
- - jekyll-feed
+ 
  - jekyll-seo-tag

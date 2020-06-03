@@ -2,7 +2,7 @@
 layout: post
 author: Saloni
 image:
-  path: /assets/link preview.png
+  path: /assets/link_preview.PNG
   height: 100
   width: 100
 ---

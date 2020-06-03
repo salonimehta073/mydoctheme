@@ -1,6 +1,10 @@
 ---
 layout: post
 author: Saloni
+image:
+  path: /assets/343.jpg
+  height: 100
+  width: 100
 ---
 
 Old things are making a fashionable comeback. Drive-in restaurants, vinyl records, old hats (?!), jigsaw puzzles, baking/cooking and email. Yep, email newsletters are the new “in” thing and are you even successful if you don’t have over 1k Medium followers or 1k paying subscribers on Substack? (Clearly, it was rhetorical and this post is desperate attempt to get there). Why would email and email marketing ever make a comeback, you ask? Especially in a world where you get tons of promotional and social emails, or where Google even tries showing you ads in your inbox, a heap of subscription emails from the past that you’re now too lazy to get rid of, confirmation emails from all offline + online commerce that you ever did etc etc.? Good question. 

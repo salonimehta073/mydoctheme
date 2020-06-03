@@ -3,7 +3,6 @@ author:
   #name: 
   email: saloni.mehta073@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  My musings
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -22,6 +21,7 @@ minima:
     # flickr:   jekyll
     instagram: salcupcake
     linkedin: https://www.linkedin.com/in/mehta-saloni/
+    medium: https://medium.com/@saloni.mehta073/
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g

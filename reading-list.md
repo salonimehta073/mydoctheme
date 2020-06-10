@@ -33,3 +33,6 @@ permalink: /reading-list/
 3. [Andrew Chen](https://andrewchen.co/)
 4. [Morning Brew](https://www.morningbrew.com/)
 5. [TechMeme](https://www.techmeme.com/)
+6. [Melting Asphalt](https://meltingasphalt.com/)
+7. [RibbonFarm](www.ribbonfarm.com)
+8. [Lenny's Newsletter](https://www.lennyrachitsky.com/)

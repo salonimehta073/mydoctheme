@@ -8,13 +8,13 @@ permalink: /reading-list/
 
 1. [Mystic River](https://www.amazon.in/Mystic-River-Dennis-Lehane/dp/0553818244/)
 2. [White Oleander](https://www.amazon.in/White-Oleander-Novel-Oprahs-Book/dp/0316284955/)
+
 ## Non-fiction ##
 
 1. [Malevolent Republic](https://www.amazon.in/Malevolent-Republic-Short-History-India-ebook/dp/B07QGCD1LT)
 2. [Algorithms to Live By](https://www.amazon.in/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
 3. [The Forty Rules Of Love](https://www.amazon.in/Forty-Rules-Love-Elif-Shafak/dp/0241972930/)
 4. [What If](https://www.amazon.in/What-If-Randall-Munroe/dp/1848549563/)
-
 
 ## Analytics ##
 

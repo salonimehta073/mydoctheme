@@ -61,9 +61,12 @@ They’ve definitely played on gamification hooks — writing streak, achievemen
 
 ![email - 4](/assets/email - 4.png)
 
-As content writing becomes one of the most important skills today (good copy >= good design), Grammarly is best placed to leverage this wave and position itself as a fundamental aid while writing.
 
 ![email - 5](/assets/email - 5.png)
+
+As content writing becomes one of the most important skills today (good copy >= good design), Grammarly is best placed to leverage this wave and position itself as a fundamental aid while writing.
+
+![email - 5](/assets/email - 6.png)
 
 Yes, this article has been certified okay by Grammarly
 

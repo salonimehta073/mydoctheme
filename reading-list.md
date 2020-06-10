@@ -18,7 +18,7 @@ permalink: /reading-list/
 
 ## Analytics ##
 
-1. Lean Analytics(https://www.amazon.in/Lean-Analytics-Better-Startup-Faster-ebook/dp/B00AG66LTM)
+1. [Lean Analytics](https://www.amazon.in/Lean-Analytics-Better-Startup-Faster-ebook/dp/B00AG66LTM)
 
 ## Design ##
 

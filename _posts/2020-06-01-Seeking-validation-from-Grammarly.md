@@ -31,8 +31,8 @@ When it comes to the 1st and 2nd point, we generally turn to Google with our spe
 
 Grammarly’s blog page has dedicated How-tos and Grammar tips that make it easy for search engines and users to index and find answers to relevant queries. The blog articles themselves feature simple and clear writing, multiple examples, helpful tips, effective CTAs for trying Grammarly, and finally an element of gamification — they feature short grammar quizzes that can help you understand the topic better!
 
-![part of speech](/assets/part of speech.png.png)
-![punctuation](/assets/punctuation.png.png)
+![part of speech](/assets/part of speech.png)
+![punctuation](/assets/punctuation.png)
 
 ### 2. Weekly emails to its users for conversion and engagement ###
 

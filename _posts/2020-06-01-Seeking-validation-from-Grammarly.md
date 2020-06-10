@@ -26,7 +26,7 @@ iii. Is the tone of the content piece reflective of our intent? Is it consistent
 
 When it comes to the 1st and 2nd point, we generally turn to Google with our specific queries. Common queries include the use of apostrophe, colon, and semicolon, use of passive vs active voice usage, and a whole lot on confusing words like affect and effect, weather and whether’ etc. Grammarly has created its content specifically to target users with these queries and get tonnes of organic traffic on their blog and product pages. By creating content that caters to these specific queries, Grammarly has been able to rise up the organic ranks and even feature in Google’s top-ranked ‘Featured Snippets’ section. The structure of the content along with SEO (section with a question-answer format, smart usage of keywords throughout the article) has also enabled it to feature on Google’s ‘People Also Ask’ section. These highly relevant sections (especially when you seek an accurate answer as opposed to opinion) drive high-intent traffic to its site.
 
-![whentousewhom](/assets/when to use whom.PNG)
+![whentousewhom](/assets/when to use whom.png)
 
 Grammarly’s blog page has dedicated How-tos and Grammar tips that make it easy for search engines and users to index and find answers to relevant queries. The blog articles themselves feature simple and clear writing, multiple examples, helpful tips, effective CTAs for trying Grammarly, and finally an element of gamification — they feature short grammar quizzes that can help you understand the topic better!
 

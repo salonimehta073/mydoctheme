@@ -36,6 +36,6 @@ Another opportunity that Substack could potentially introduce is a pay-per-read 
 
 I'm excited about the future of Susbtack, the future of writing and the cost of opinions in the future. Here’s two cool newsletters you can subscribe to:
 
-1. Technically 
-2. Alex Danco’s Newsletter
-2. Oversharing
+1. [Technically](https://technically.substack.com/?utm_source=saloni) 
+2. [Alex Danco’s Newsletter](https://danco.substack.com/?utm_source=saloni)
+2. [Oversharing](https://oversharing.substack.com/?utm_source=saloni)

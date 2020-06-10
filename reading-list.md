@@ -31,6 +31,3 @@ permalink: /reading-list/
 3. [Andrew Chen](https://andrewchen.co/)
 4. [Morning Brew](https://www.morningbrew.com/)
 5. [TechMeme](https://www.techmeme.com/)
-
-
-

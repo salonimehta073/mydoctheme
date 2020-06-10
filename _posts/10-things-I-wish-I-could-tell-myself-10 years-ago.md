@@ -1,3 +1,11 @@
+---
+layout: post
+author: Saloni
+image:
+  path: /assets/link_preview.PNG
+  height: 100
+  width: 100
+---
 
 I have made quite a few mistakes in my academic and professional life. Phew. It feels good to be able to say it out loud (0 followers so it is fine). Some of those “mistakes” are personality-driven; some of them are what I would call culture-driven. I am specifically referring to Indian culture and our mindset (could also apply to others). What I do mean by culture is rigorously following a set of steps that are often outlined by our family members or relatives who in turn outline them based on their forefathers or experience from a very different world. We expect that following these steps will result in instant success and we do not pay attention to the demands of a world that is constantly evolving and adapting.
 

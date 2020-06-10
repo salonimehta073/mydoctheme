@@ -4,14 +4,14 @@ author:
   email: saloni.mehta073@gmail.com
   image: 
 description: > # this means to ignore newlines until "show_excerpts:"
-
+google_analytics: UA-69225227-1
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
-
+  
   # generate social links in footer
   social_links:
     twitter: Fartdispenser

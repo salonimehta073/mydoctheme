@@ -37,7 +37,7 @@ permalink: /reading-list/
 7. [RibbonFarm](www.ribbonfarm.com)
 8. [Lenny's Newsletter](https://www.lennyrachitsky.com/)
 
-##Articles##
+## Articles ##
 1. [A/B Testing - SplitMetrics](https://splitmetrics.com/blog/mobile-a-b-testing-statistical-significance/)
 2. [Rise of TikTok - Turner](https://turner.substack.com/p/the-rise-of-tiktok-and-understanding)
 3. [A/B Testing - TowardsDataScience](https://towardsdatascience.com/a-b-testing-with-chi-squared-test-to-maximize-conversions-and-ctrs-6599271a2c31)

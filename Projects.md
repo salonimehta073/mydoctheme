@@ -9,3 +9,5 @@ permalink: /projects/
 > This is a WIP
 
 2. [EDA Of CoVid-19 data using R](https://github.com/salonimehta073/)
+
+> Code yet to be uploaded

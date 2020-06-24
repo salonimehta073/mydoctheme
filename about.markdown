@@ -6,5 +6,5 @@ permalink: /about/
 
 Curious and scrappy. Background in marketing analytics and building online marketing businesses. Passionate about tech, product, marketing and businesses of the internet economy. 
 
-![sal](/assets/sal.JPG)
+![sal](/assets/sal2.JPG)
 

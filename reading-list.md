@@ -48,7 +48,7 @@ permalink: /reading-list/
 5. [Can You Hear Me Now?](https://www.ribbonfarm.com/2015/12/01/can-you-hear-me-now/)
 6. [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html)
 7. [Mobile A/B Testing Results Analysis: Statistical Significance, Confidence Level and Intervals](https://splitmetrics.com/blog/mobile-a-b-testing-statistical-significance/)
-8. [A Mind Boggling Probability Problem] (http://adit.io/posts/2017-12-05-A-Mind-Boggling-Probability-Problem.html)
+8. [A Mind Boggling Probability Problem](http://adit.io/posts/2017-12-05-A-Mind-Boggling-Probability-Problem.html)
 9. [Positional Scarcity and the Virus](https://alexdanco.com/2020/04/01/positional-scarcity-and-the-virus/)
 10. [Eigenquestions: The Art of Framing Problems](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems)
 11. [The Rise of TikTok and Understanding Its Parent Company, ByteDance](https://turner.substack.com/p/the-rise-of-tiktok-and-understanding)

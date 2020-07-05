@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Reading List
 image:
   path: /assets/link_preview.PNG
 permalink: /reading-list/

@@ -39,6 +39,8 @@ permalink: /reading-list/
 8. [Musings On Markets](http://aswathdamodaran.blogspot.com/)
 9. [Margins](https://themargins.substack.com/)
 10.[Technically](https://technically.substack.com/)
+11.[Julian](https://www.julian.com/guide/growth/intro)
+12.[Build A Growth Machine](https://brianbalfour.com/)
 
 ## Articles ##
 1. [A/B Testing - SplitMetrics](https://splitmetrics.com/blog/mobile-a-b-testing-statistical-significance/)
@@ -56,3 +58,4 @@ permalink: /reading-list/
 13. [Platforms in an Aggregator World](https://stratechery.com/2020/platforms-in-an-aggregator-world/)
 14. [On Pioneers, Settlers, Town Planners and Theft.](https://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html)
 15. [The Hidden Forces Behind Toutiao: China’s Content King](https://blog.ycombinator.com/the-hidden-forces-behind-toutiao-chinas-content-king/)
+16. [Hierarchy of Engagement, Expanded](https://medium.com/@sarahtavel/the-hierarchy-of-engagement-expanded-648329d60804)

@@ -6,7 +6,7 @@ permalink: /projects/
 
 1. [Curation of book recommendations from popular people using Python and WebFlow](https://inspiron.webflow.io/)
 
-> [Launching a book recommendation website]({% post_url 22020-07-25-Launching-a-book-recommendation-website %})
+  [Launching a book recommendation website]({% post_url 2020-07-25-Launching-a-book-recommendation-website %})
 
 2. [EDA Of CoVid-19 data using R](https://github.com/salonimehta073/)
 

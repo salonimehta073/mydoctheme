@@ -18,10 +18,13 @@ I had never heard of the app before (I don’t have friends to invite me) and �
 
 ![Signup form of Smytten](/assets/sign up.jpg)
 
+
+
 Smytten has a true mobile-first approach and it works so well for discovery-based use cases. Each trial product is presented to you as a Tiktok-like feed on a full screen which you can swipe up and down.
 
 
-![Trial products feed](/assets/trial feed.jpg)
+
+![Trial products feed](/assets/Trial feed.jpg)
 
 You get 6 trial points for signing up and you can redeem these points against trial products that are curated for you. The redemption value for most trial samples is 1 point and can sometimes even be 6 points if it is a full-sized product. I have placed 6 orders in the last 2 months and I’ve only just started obsessing about my skin. So, they are employing some very clever growth hacks for acquisition, activation, conversion, and retention. My intent through this essay is to try and deconstruct some of these ideas and think about what I would do differently (hire me, please?)
 
@@ -38,10 +41,18 @@ Clearly, they want you to keep sampling new products.. and that is a very clever
 The Google Playstore ratings, as well as their Facebook page, does indicate some issues with their customer service and deliveries. A lot of complaints are around changing policies, lack of customer support, and inefficient deliveries. I am unable to comment on customer support and delivery issues since I did not face it. My guess is deliveries in Tier 2 cities and towns are delayed and this is causing a bit of friction. A lot of users are also unclear about the trial system and why those offers keep changing. A user onboarding process, maybe in the form of a video could help some of these issues.
 
 
+
 ![Smytten on Google Playstore](/assets/playstore_review.jpg)
 
 
+
+
+
+
 ![Smytten’s Facebook page](/assets/facebook_review.jpg)
+
+
+
 
 The focus of this article though is on ideas they could pursue as they scale up. Smytten is not positioning itself as a pure e-commerce company but a platform for discovery and engagement. This positioning opens a lot of possibilities for social and gamification hacks in its product. This becomes a lot more apparent when you start thinking about the category they operate in — beauty. Reviews and recommendations matter a lot more in this category than others.
 
@@ -49,6 +60,8 @@ The lowest hanging fruit I’d pick up is their referral program. Smytten first 
 
 
 ![Referral system](/assets/referral.jpg)
+
+
 
 This means you need to onboard 3 successful referrals before you see any reward out of it. That’s a lot of friction! Incentives need to be quick and with a time constraint. I started thinking about social e-commerce products and Pinuoduo is such a great example of exploding growth because of its ‘team buy’ concept. Pinduoduo has grown at a staggering pace because of some of its very clever growth hacks and one of them is the ‘team buy’ concept. It essentially lets you shop an item for a heavy discount if you can get your friends to purchase it too. The higher the number of friends who join your team, the higher is the discount. I think a referral system with a similar vein could be much more effective in getting referrals. Smytten could:
 
@@ -62,12 +75,19 @@ This means you need to onboard 3 successful referrals before you see any reward 
 The next thing I’d focus on is product details and reviews. In its Tiktok-like trial product feed, Smytten focuses on showing you a product picture, a few details about the product, and reviews from trial users.
 
 
+
+
 ![Trial roduct reviews on Smytten](/assets/reivews.jpg)
+
+
 
 Before trying any product, I’ve always checked out the average rating and read some reviews. If I am trying a new brand when it comes to skincare or makeup, I’m definitely going to look for reviews from people who have experienced it. I’d ideally even like to know if this product is for MY skin, but we’ll come to that later. So, Smytten needs users to give ratings and reviews to the products and also probably use that as an input in their algorithm. Although you get an option to leave a review for the product if you come across the same product screen while browsing, you are not explicitly nudged or incentivized to leave a review.
 
 
+
 ![User review flow](/assets/my review.jpg)
+
+
 
 I am not sure if this is by design, but I cannot imagine why they wouldn’t want to tap into the high intent community that the Smytten userbase is and take honest feedback from them. I would instead make the whole thing like a game and incentivize users to leave a review by offering them a limited-time deal or extra trial points. With additional incentives for users, brands can get Smytten to take more objective feedback for products based on known parameters for each category (for example, lipstick needs to be judged on pigmentation, staying power, moisturizing capability, etc.). This data could be a gold mine for brands who are looking for feedback for future product development and they might even be ready to pay for it.
 
@@ -76,7 +96,10 @@ Once you’ve tried the products and say you want to purchase a full-sized versi
 Skincare is such an interesting category — if you have a sizeable disposable income (which is the current target market of Smytten), there is no price elasticity for the right product. Good skincare products are rare and expensive. Most importantly, you need to find the right product for your skin based on your skin type, issues with skin, history with other skincare products, etc. Given that all skincare products will never be right for me, Smytten should make my discovery more meaningful with better filters — like searching for products by skin type, or product constituents. Currently, there are no such filters and the only available ones are as below:
 
 
+
 ![Filter options](/assets/filters.jpg)
+
+
 
 **(EDIT: They have added a filter for ‘Concern’ just today!)**
 

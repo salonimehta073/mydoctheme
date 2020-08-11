@@ -11,13 +11,14 @@ permalink: /reading-list/
 1. [Mystic River](https://www.amazon.in/Mystic-River-Dennis-Lehane/dp/0553818244/)
 2. [White Oleander](https://www.amazon.in/White-Oleander-Novel-Oprahs-Book/dp/0316284955/)
 
-## Non-fiction ##
+## Non-fiction/Business/Product ##
 
 1. [Malevolent Republic](https://www.amazon.in/Malevolent-Republic-Short-History-India-ebook/dp/B07QGCD1LT)
 2. [Algorithms to Live By](https://www.amazon.in/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
 3. [The Forty Rules Of Love](https://www.amazon.in/Forty-Rules-Love-Elif-Shafak/dp/0241972930/)
 4. [What If](https://www.amazon.in/What-If-Randall-Munroe/dp/1848549563/)
 5. [Platform Revolution](https://www.amazon.in/Platform-Revolution-Networked-Transforming-Economy/dp/0393249131)
+6. [Hooked](https://www.amazon.in/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00NW01MKM)
 
 ## Analytics ##
 
@@ -59,3 +60,4 @@ permalink: /reading-list/
 14. [On Pioneers, Settlers, Town Planners and Theft.](https://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html)
 15. [The Hidden Forces Behind Toutiao: China’s Content King](https://blog.ycombinator.com/the-hidden-forces-behind-toutiao-chinas-content-king/)
 16. [Hierarchy of Engagement, Expanded](https://medium.com/@sarahtavel/the-hierarchy-of-engagement-expanded-648329d60804)
+17. [Pinduoduo](https://turner.substack.com/p/pinduoduo-and-vertically-integrated)

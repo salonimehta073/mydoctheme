@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Saloni
-title: Instagram’s Price On DM Exclusivity Club
+title: Email Assistant Using Glide and Google Sheets
 image:
   path: /assets/link_preview.PNG
   height: 100

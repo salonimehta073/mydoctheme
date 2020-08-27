@@ -8,7 +8,7 @@ image:
   width: 100
 ---
 
-P.S. If you just want to check the high-fidelity wireframe, here it is: https://email-assistant.glideapp.io/
+P.S. If you just want to check the high-fidelity wireframe, check it [here](https://email-assistant.glideapp.io/)
 
 Writing, thinking, and reading in English does not come naturally to a lot of non-native English speakers. But they have had to adopt it to unlock access to better work opportunities and if you live in urban India, to fit in. When you are in a professional work environment, it becomes ever more necessary to ensure clarity and sophistication in written and verbal communication. If you work for foreign clients, written communication through email is one of the first ways you establish contact and later, trust. However, in my (very short) career, I’ve seen a lot of my colleagues, peers and even superiors struggle with professional email writing. The hardest step is always the first step – figuring out what components the email should contain and in what order. I asked a few friends of mine about their email writing process and if they too feel the need to Google a template before writing their email. A lot of them admitted that they do spend some time looking online for available email examples that can serve as a base for their eventual email.
 

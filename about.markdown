@@ -8,8 +8,6 @@ Curious and scrappy. Background in marketing analytics and building online marke
 
 ![Sal2](/assets/Sal2.png)
 
-Subscribe below to get updates on new posts. No, I can't promise that I won't spam
-
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -20,14 +18,29 @@ Subscribe below to get updates on new posts. No, I can't promise that I won't sp
 <div id="mc_embed_signup">
 <form action="https://xyz.us17.list-manage.com/subscribe/post?u=1a6b50a9df53ba0c3a579851b&amp;id=2da3cff134" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe</h2>
+	<h2>Subscribe for updates. No, I can't promise that I won't spam</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
-	<div id="mce-responses" class="clear">
+<div class="mc-field-group">
+	<label for="mce-FNAME">First Name </label>
+	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME">Last Name </label>
+	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+<div class="mc-field-group size1of2">
+	<label for="mce-BIRTHDAY-month">Birthday </label>
+	<div class="datefield">
+		<span class="subfield monthfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="BIRTHDAY[month]" id="mce-BIRTHDAY-month"></span> / 
+		<span class="subfield dayfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="BIRTHDAY[day]" id="mce-BIRTHDAY-day"></span> 
+		<span class="small-meta nowrap">( mm / dd )</span>
+	</div>
+</div>	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->

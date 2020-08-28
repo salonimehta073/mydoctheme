@@ -27,7 +27,9 @@ layout: default
             <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
-      {%- endif -%}</p>
+      {%- endif -%}
+    {% include read-time.html content=content %}
+    </p>
     
     
   </header>

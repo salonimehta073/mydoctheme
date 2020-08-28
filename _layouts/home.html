@@ -57,5 +57,19 @@ layout: default
     {%- endif %}
 
   {%- endif -%}
+  
+  {% for post in paginator.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">{{ post.title }}</h2>
+    </a>
+    <p class="post-meta">
+        <span>Posted by {{ post.author }} on {{ post.date }}.</span>
+        {% include read-time.html content=post.content %}
+    </p>
+</div>
+<hr>
+{% endfor %}
+
 
 </div>

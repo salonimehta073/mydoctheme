@@ -24,6 +24,8 @@ layout: default
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}</p>
+    
+    {% include read-time.html content=content %}
   </header>
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}

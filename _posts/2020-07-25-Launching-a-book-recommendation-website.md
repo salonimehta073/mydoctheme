@@ -8,6 +8,8 @@ image:
 ---
 
 This post details its implementation. Check the site [here](https://inspiron.webflow.io/). Code posted [here](https://github.com/salonimehta073/inspiron)
+
+
 EDIT: After experimenting with Glide, I wanted to move this to Glide too. Implementation [here](https://inspired-reading.glideapp.io/) :) 
 
 

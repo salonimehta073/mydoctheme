@@ -8,6 +8,7 @@ image:
 ---
 
 This post details its implementation. Check the site [here](https://inspiron.webflow.io/). Code posted [here](https://github.com/salonimehta073/inspiron)
+EDIT: After experimenting with Glide, I wanted to move this to Glide too. Implementation [here](https://inspired-reading.glideapp.io/) :) 
 
 
 I love reading. I know this is true for a lot of us and I’m so glad that all book-loving champs have a special relationship with their books. Over the years, there has been a shift in my reading habits — I read about a lot many different subjects now than I used to, which is good. The flip side is that I do not have as much time to read as I used to back then (Back then = college. I’m not that old). With the paucity of time and an overwhelming external memory that we call the Internet, we need to then be smart about the books we choose to read. More importantly, how do we decide which books to read? Goodreads recommendations algorithm has never really been useful for me, nor has been just consulting my friends and peers. Visits to the bookstore are not cool anymore and with Bumble safely installed on my phone, there is no reason to waste all that time pretending to discover books. Book clubs and closed communities are much better, and I imagine they curate books based on what their role models are reading.

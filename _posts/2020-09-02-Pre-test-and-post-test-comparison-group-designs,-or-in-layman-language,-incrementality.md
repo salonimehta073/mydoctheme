@@ -22,9 +22,9 @@ The real incrementality is then basically calculated as Observed post-test – P
 
 I’m honestly not sure if this method is accurate and what other considerations we’ve missed out on. I found a few references (mentioned below) that state the assumptions/risks that each method comes with. Did you encounter an experiment like this at work? How did measure it?
 
-Source: 
+References: 
 
-https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/33240/pre_post_change_jennings_cribbie_jds.pdf?sequence=1&isAllowed=y – Best resource to understand different methods that can be used
+https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/33240/pre_post_change_jennings_cribbie_jds.pdf?sequence=1&isAllowed=y:  Best resource to understand different methods that can be used
 
 https://sg.inflibnet.ac.in/bitstream/10603/1548/14/14_chapter%204.pdf
 

@@ -46,8 +46,8 @@ function createCommentEl( response ) {
 
 	let comment = document.createElement( 'li' );
 	comment.setAttribute( 'data-created', response.created_at );
-	comment.setAttribute( 'data-author-avatar', response.user.avatar_url );
-	comment.setAttribute( 'data-user-url', response.user.url );
+	//comment.setAttribute( 'data-author-avatar', response.user.avatar_url )
+	//comment.setAttribute( 'data-user-url', response.user.url );
 
 	comment.appendChild( user );
 	comment.appendChild( commentContents );
@@ -63,6 +63,5 @@ request.send();
 <div class="github-comments">
 	<h2>Comments</h2>
 	<ul id="gh-comments-list"></ul>
-	<p id="no-comments-found">No comments found for this article. </p>
 	<p id="leave-a-comment">Join the discussion for this article on <a href="https://github.com/salonimehta073/mydoctheme/issues/{{ page.comments_id }}">this ticket</a>. Comments appear on this page instantly.</p>
 </div>

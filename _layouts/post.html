@@ -39,4 +39,12 @@ layout: default
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  <section class="single">
+	<div class="wrap">
+		{{ page.content }}
+		{% if page.comments_id %}
+			{% include comments.html %}
+		{% endif %}
+	</div>
+</section>
 </article>

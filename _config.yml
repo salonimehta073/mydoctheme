@@ -10,11 +10,10 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  skin: solarized
   date_format: "%b %-d, %Y"
-  
-  # generate social links in footer
-  social_links:
+
+# generate social links in footer
+social_links:
     twitter: Fartdispenser
     github:  salonimehta073
     # devto: jekyll
@@ -60,3 +59,4 @@ plugins:
  - jekyll-seo-tag
  - jekyll-sitemap
  - jekyll-feed
+ 
